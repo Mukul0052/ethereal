@@ -15,19 +15,19 @@ export default function Contact() {
           <div className="bg-surface-variant/30 p-8 rounded-2xl border border-outline-variant/10 transition-transform duration-300 hover:-translate-y-1 hover:shadow-xl">
             <h3 className="text-xl font-bold text-on-surface mb-2">Email</h3>
             <p className="text-on-surface-variant mb-4">Drop a line at:</p>
-            <a href="mailto:unithkumarsharma@gmail.com" className="text-primary font-bold hover:underline break-all">unithkumarsharma@gmail.com</a>
+            <a href="mailto:mbmukul2007@gmail.com" className="text-primary font-bold hover:underline break-all">mbmukul2007@gmail.com</a>
           </div>
           
           <div className="bg-surface-variant/30 p-8 rounded-2xl border border-outline-variant/10 transition-transform duration-300 hover:-translate-y-1 hover:shadow-xl">
             <h3 className="text-xl font-bold text-on-surface mb-2">LinkedIn</h3>
             <p className="text-on-surface-variant mb-4">Connect professionally:</p>
-            <a href="https://www.linkedin.com/in/unithkumarsharma/" target="_blank" rel="noopener noreferrer" className="text-primary font-bold hover:underline break-all">unithkumarsharma</a>
+            <a href="https://www.linkedin.com/in/mukul-bhardwaj-185406298/" target="_blank" rel="noopener noreferrer" className="text-primary font-bold hover:underline break-all">Mukul Bhardwaj</a>
           </div>
 
           <div className="bg-surface-variant/30 p-8 rounded-2xl border border-outline-variant/10 transition-transform duration-300 hover:-translate-y-1 hover:shadow-xl">
             <h3 className="text-xl font-bold text-on-surface mb-2">Phone</h3>
             <p className="text-on-surface-variant mb-4">Give a call at:</p>
-            <a href="tel:8607705140" className="text-primary font-bold hover:underline">8607705140</a>
+            <a href="tel:9818454637" className="text-primary font-bold hover:underline">9818454637</a>
           </div>
         </div>
       </main>
